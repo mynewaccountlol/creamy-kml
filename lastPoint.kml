@@ -6967,5 +6967,59 @@
                 <coordinates>36.012311,47.611110,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="45471">
+            <name>24.04.26 Красноармейск - Родинское
+
+Позиционные боевые действия в районе Красноармейска.
+Удар со стороны ВС РФ по позиции ВСУ в жилой застройке Родинского. Боевые действия в 2-х км от линии разграничения зон контроля сторон.
+
+1:00 `48.355971, 37.198536`
+
+Источник https://t.me/icpbtrubicon/1419
+Геопривязка https://x.com/Bielitzling
+#ua #add</name>
+            <description>https://t.me/creamy_caprice/11763</description>
+            <ExtendedData>
+                <Data name="описание">
+                    <value>https://t.me/creamy_caprice/11763</value>
+                </Data>
+                <Data name="позиция">
+                    <value>ВСУ</value>
+                </Data>
+                <Data name="дата">
+                    <value>2026.04.24</value>
+                </Data>
+            </ExtendedData>
+            <Point id="45470">
+                <coordinates>37.198536,48.355971,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45477">
+            <name>24.04.26 Артёмовск - Малиновка - канал Северский Донец - Донбасс
+
+Позиционные боевые действия в районе Артёмовска.
+Военнослужащий ВС РФ попал под обстрел ВСУ на западном берегу канала Северский Донец-Донбасс около Малиновки. Продвижение ВС РФ на 3,5 км в направлении Краматорска.
+
+ `48.747482,37.803256`  
+
+Источник 21+ https://t.me/pidrozdilshadowoficial/794
+Геопривязка https://t.me/Zabolocini
+#ru</name>
+            <description>https://t.me/creamy_caprice/11765</description>
+            <ExtendedData>
+                <Data name="описание">
+                    <value>https://t.me/creamy_caprice/11765</value>
+                </Data>
+                <Data name="позиция">
+                    <value>ВС РФ*</value>
+                </Data>
+                <Data name="дата">
+                    <value>2026.04.24</value>
+                </Data>
+            </ExtendedData>
+            <Point id="45476">
+                <coordinates>37.803256,48.747482,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
