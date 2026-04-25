@@ -7021,5 +7021,32 @@
                 <coordinates>37.803256,48.747482,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="45483">
+            <name>25.04.26 Гуляйполе - Мирное
+
+Позиционные боевые действия в районе Гуляйполя. 
+Передовая позиция ВС РФ в окрестностях Мирного обстреляна ВСУ. ВС РФ увеличили зону контроля на запад от населённого пункта более 800 метров.
+
+0:19 `47.587704,36.089156`
+
+Источник 21+ https://t.me/stepova_61/1960
+Геопривязка https://t.me/Zabolocini
+#ru</name>
+            <description>https://t.me/creamy_caprice/11766</description>
+            <ExtendedData>
+                <Data name="описание">
+                    <value>https://t.me/creamy_caprice/11766</value>
+                </Data>
+                <Data name="позиция">
+                    <value>ВС РФ*</value>
+                </Data>
+                <Data name="дата">
+                    <value>2026.04.25</value>
+                </Data>
+            </ExtendedData>
+            <Point id="45482">
+                <coordinates>36.089156,47.587704,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
