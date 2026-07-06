@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="2107469">
-        <Placemark id="2107475">
+    <Document id="2109229">
+        <Placemark id="2155981">
             <name>01.06.26 Красноармейск - Гришино
 
 Позиционные боевые действия в районе Красноармейска.
@@ -24,11 +24,11 @@
                     <value>2026.06.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107474">
+            <Point id="2155980">
                 <coordinates>37.063165,48.317277,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107481">
+        <Placemark id="2155987">
             <name>01.06.26 Двуречная - Фиголевка
 
 Позиционные боевые действия в районе Купянска.
@@ -51,11 +51,11 @@
                     <value>2026.06.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107480">
+            <Point id="2155986">
                 <coordinates>37.732349,49.902236,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107487">
+        <Placemark id="2155993">
             <name>01.06.26 Межевая - Новоподгородное
 
 Последствия боевых действий в Днепропетровской зоне безопасности.
@@ -78,11 +78,11 @@
                     <value>2026.06.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107486">
+            <Point id="2155992">
                 <coordinates>36.90076,48.24393,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107493">
+        <Placemark id="2155999">
             <name>01.06.26 Северск - Рай-Александровка
 
 Активные боевые действия в районе Северска.
@@ -105,11 +105,11 @@
                     <value>2026.06.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107492">
+            <Point id="2155998">
                 <coordinates>37.863177,48.812966,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107499">
+        <Placemark id="2156005">
             <name>01.06.26 Боровая - Новоплатоновка
 
 Активные боевые действия в районе Боровой.
@@ -133,11 +133,11 @@
                     <value>2026.06.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107498">
+            <Point id="2156004">
                 <coordinates>37.641832,49.421067,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107505">
+        <Placemark id="2156011">
             <name>01.06.26 Глухов - Белая Берёза
 
 Позиционные боевые действия в Сумской зоне безопасности.
@@ -161,16 +161,16 @@
                     <value>2026.06.01</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107504">
-                <Point id="2107506">
+            <MultiGeometry id="2156010">
+                <Point id="2156012">
                     <coordinates>34.37111,51.74779,0.0</coordinates>
                 </Point>
-                <Point id="2107508">
+                <Point id="2156014">
                     <coordinates>34.303350,51.721765,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107515">
+        <Placemark id="2156021">
             <name>02.06.26 Дополнительно. Обстрел позиции ВСУ
 
 0:58 `48.809692, 37.908488` 
@@ -189,11 +189,11 @@
                     <value>2026.06.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107514">
+            <Point id="2156020">
                 <coordinates>37.908488,48.809692,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107521">
+        <Placemark id="2156027">
             <name>02.06.26 Констатиновка - Алексево-Дружковка
 
 Позиционные боевые действия в районе Артёмовска.
@@ -216,11 +216,11 @@
                     <value>2026.06.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107520">
+            <Point id="2156026">
                 <coordinates>37.62482,48.57939,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107527">
+        <Placemark id="2156033">
             <name>02.06.26 Краматорск - Малиновка - канал Северский Донец-Донбасс
 
 Позиционные боевые действия в районе Артёмовска.
@@ -242,11 +242,11 @@
                     <value>2026.06.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107526">
+            <Point id="2156032">
                 <coordinates>37.805800,48.736454,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107533">
+        <Placemark id="2156039">
             <name>02.06.26 Купянск - Новоосиново
 
 Позиционные боевые действия в районе Купянска.
@@ -269,11 +269,11 @@
                     <value>2026.06.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107532">
+            <Point id="2156038">
                 <coordinates>37.705145,49.629969,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107539">
+        <Placemark id="2156045">
             <name>03.06.26 Дополнительно. Позиции ВС РФ под огнём ВСУ
  
  `47.582330, 35.305434` 
@@ -292,11 +292,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107538">
+            <Point id="2156044">
                 <coordinates>35.305434,47.582330,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107545">
+        <Placemark id="2156051">
             <name>03.06.26 Дополнительно. Обстрел позиции ВС РФ в Степногорске
 
  `47.588785, 35.365956` 
@@ -315,11 +315,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107544">
+            <Point id="2156050">
                 <coordinates>35.365956,47.588785,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107551">
+        <Placemark id="2156057">
             <name>03.06.26 Дополнительно. Обстрел позиции ВС РФ со стороны ВСУ в Билецком
 
  `48.402437, 37.190062`
@@ -338,11 +338,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107550">
+            <Point id="2156056">
                 <coordinates>37.190062,48.402437,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107557">
+        <Placemark id="2156063">
             <name>03.06.26 Дополнительно. Военнослужащий ВСУ попал под обстрел ВС РФ
 
  `48.039636, 36.676800` 
@@ -361,11 +361,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107556">
+            <Point id="2156062">
                 <coordinates>36.676800,48.039636,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107563">
+        <Placemark id="2156069">
             <name>03.06.26 Никополь - Старозаводское
 
 Уничтожение инфраструктурных объектов Украины.
@@ -388,11 +388,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107562">
+            <Point id="2156068">
                 <coordinates>34.275119,47.666132,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107569">
+        <Placemark id="2156075">
             <name>03.06.26 Гуляйполе - Доброполье
 
 Активные боевые действия в районе Гуляйполя.
@@ -415,11 +415,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107568">
+            <Point id="2156074">
                 <coordinates>36.186914,47.780612,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107575">
+        <Placemark id="2156081">
             <name>03.06.26 Гуляйполе - Комсомольское
 
 Позиционные боевые действия в районе Гуляйполя.
@@ -443,16 +443,16 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107574">
-                <Point id="2107576">
+            <MultiGeometry id="2156080">
+                <Point id="2156082">
                     <coordinates>36.050354,47.598050,0.0</coordinates>
                 </Point>
-                <Point id="2107578">
+                <Point id="2156084">
                     <coordinates>36.054608,47.601671,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107585">
+        <Placemark id="2156091">
             <name>03.06.26 Красный Лиман - Центральный
 
 Позиционные боевые действия в Красном Лимане.
@@ -475,11 +475,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107584">
+            <Point id="2156090">
                 <coordinates>37.812016,48.990432,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107591">
+        <Placemark id="2156097">
             <name>03.06.26 Константиновка - 2-й микрорайон
 
 Штурм Константиновки.
@@ -502,11 +502,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107590">
+            <Point id="2156096">
                 <coordinates>37.676913,48.510970,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107597">
+        <Placemark id="2156103">
             <name>03.06.26 Орехов - Малая Токмачка
 
 Позиционные боевые действия в районе Орехова.
@@ -529,11 +529,11 @@
                     <value>2026.06.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107596">
+            <Point id="2156102">
                 <coordinates>35.909304,47.527159,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107603">
+        <Placemark id="2156109">
             <name>04.06.26 Дополнительное. Позиция ВСУ под огнём ВС РФ
 
  `48.348134, 37.201577 `
@@ -552,11 +552,11 @@
                     <value>2026.06.04</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107602">
+            <Point id="2156108">
                 <coordinates>37.201577,48.348134,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107609">
+        <Placemark id="2156115">
             <name>04.06.26 Покровское - Даниловка
 
 Позиционные боевые действия в Днепропетровской зоне безопасности.
@@ -579,11 +579,11 @@
                     <value>2026.06.04</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107608">
+            <Point id="2156114">
                 <coordinates>36.231463,47.877161,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107615">
+        <Placemark id="2156121">
             <name>04.06.26 Гуляйполе - Комсомольское(Гуляйпольское)
 
 Последствия боевых действий в районе Гуляйполя.
@@ -611,28 +611,28 @@
                     <value>2026.06.04</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107614">
-                <Point id="2107616">
+            <MultiGeometry id="2156120">
+                <Point id="2156122">
                     <coordinates>36.06999,47.61297,0.0</coordinates>
                 </Point>
-                <Point id="2107618">
+                <Point id="2156124">
                     <coordinates>36.06446,47.60736,0.0</coordinates>
                 </Point>
-                <Point id="2107620">
+                <Point id="2156126">
                     <coordinates>36.06247,47.61034,0.0</coordinates>
                 </Point>
-                <Point id="2107622">
+                <Point id="2156128">
                     <coordinates>36.05504,47.61027,0.0</coordinates>
                 </Point>
-                <Point id="2107624">
+                <Point id="2156130">
                     <coordinates>36.06150,47.61150,0.0</coordinates>
                 </Point>
-                <Point id="2107626">
+                <Point id="2156132">
                     <coordinates>36.05993,47.61303,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107633">
+        <Placemark id="2156139">
             <name>04.06.26 Гуляйполе - Злагода
 
 Позиционные боевые действия в районе Гуляйполя.
@@ -655,11 +655,11 @@
                     <value>2026.06.04</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107632">
+            <Point id="2156138">
                 <coordinates>36.359092,47.838070,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107639">
+        <Placemark id="2156145">
             <name>05.06.26 Волчанск - Покаляное
 
 Позиционные боевые действия в Харьковской зоне безопасности.
@@ -683,16 +683,16 @@
                     <value>2026.06.05</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107638">
-                <Point id="2107640">
+            <MultiGeometry id="2156144">
+                <Point id="2156146">
                     <coordinates>37.073895,50.290806,0.0</coordinates>
                 </Point>
-                <Point id="2107642">
+                <Point id="2156148">
                     <coordinates>37.058253,50.298887,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107649">
+        <Placemark id="2156155">
             <name>06.06.26 Дополнительно. Позиция ВС РФ подверглась обстрелу ВСУ
 
  `47.610544, 36.057581`
@@ -711,11 +711,11 @@
                     <value>2026.06.06</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107648">
+            <Point id="2156154">
                 <coordinates>36.057581,47.610544,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107655">
+        <Placemark id="2156161">
             <name>06.06.26 Купянск - Заосколье
 
 Активные боевые действия в Купянске.
@@ -739,16 +739,16 @@
                     <value>2026.06.06</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107654">
-                <Point id="2107656">
+            <MultiGeometry id="2156160">
+                <Point id="2156162">
                     <coordinates>37.63606,49.69396,0.0</coordinates>
                 </Point>
-                <Point id="2107658">
+                <Point id="2156164">
                     <coordinates>37.637730,49.698845,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107665">
+        <Placemark id="2156171">
             <name>06.06.26 Доброполье - Кучеров Яр
 
 Позиционные боевые действия в районе Красноармейска.
@@ -772,16 +772,16 @@
                     <value>2026.06.06</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107664">
-                <Point id="2107666">
+            <MultiGeometry id="2156170">
+                <Point id="2156172">
                     <coordinates>37.262407,48.489663,0.0</coordinates>
                 </Point>
-                <Point id="2107668">
+                <Point id="2156174">
                     <coordinates>37.253851,48.483845,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107675">
+        <Placemark id="2156181">
             <name>06.06.26 Апостолово - Зелёнодольск
 
 Уничтожение инфраструктурных объектов Украины.
@@ -803,11 +803,11 @@
                     <value>2026.06.06</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107674">
+            <Point id="2156180">
                 <coordinates>33.656960,47.543696,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107681">
+        <Placemark id="2156187">
             <name>06.06.26 Константиновка - Нахаловка
 
 Штурм Константиновки.
@@ -832,16 +832,16 @@
                     <value>2026.06.06</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107680">
-                <Point id="2107682">
+            <MultiGeometry id="2156186">
+                <Point id="2156188">
                     <coordinates>37.672976,48.511594,0.0</coordinates>
                 </Point>
-                <Point id="2107684">
+                <Point id="2156190">
                     <coordinates>37.668386,48.535377,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107691">
+        <Placemark id="2156197">
             <name>07.06.26 Дополнительно. Обстрел позиции ВС РФ на фермах в Терноватом
 
  `47.824854 36.135492` 
@@ -860,11 +860,11 @@
                     <value>2026.06.07</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107690">
+            <Point id="2156196">
                 <coordinates>36.135492,47.824854,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107697">
+        <Placemark id="2156203">
             <name>07.06.26 Дополнительно. Позиция ВС РФ под огнём ВСУ
 
  `47.872029, 36.459965` 
@@ -883,11 +883,11 @@
                     <value>2026.06.07</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107696">
+            <Point id="2156202">
                 <coordinates>36.459965,47.872029,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107703">
+        <Placemark id="2156209">
             <name>07.06.26 Гуляйполе - Чаривное
 
 Позиционные боевые действия в районе Гуляйполя.
@@ -910,11 +910,11 @@
                     <value>2026.06.07</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107702">
+            <Point id="2156208">
                 <coordinates>36.042953,47.556586,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107709">
+        <Placemark id="2156215">
             <name>07.06.26 Красный Лиман - Центральный
 
 Активные боевые действия в Красном Лимане.
@@ -939,16 +939,16 @@
                     <value>2026.06.07</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107708">
-                <Point id="2107710">
+            <MultiGeometry id="2156214">
+                <Point id="2156216">
                     <coordinates>37.811331,48.987980,0.0</coordinates>
                 </Point>
-                <Point id="2107712">
+                <Point id="2156218">
                     <coordinates>37.810965,48.989862,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107719">
+        <Placemark id="2156225">
             <name>07.06.26 Констатиновка - Южный
 
 Штурм Константиновки
@@ -971,11 +971,11 @@
                     <value>2026.06.07</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107718">
+            <Point id="2156224">
                 <coordinates>37.688168,48.498284,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107725">
+        <Placemark id="2156231">
             <name>07.06.26 Красноармейск - Родинское
 
 Позиционные боевые действия в районе Красноармейска.
@@ -999,11 +999,11 @@
                     <value>2026.06.07</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107724">
+            <Point id="2156230">
                 <coordinates>37.183801,48.354885,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107731">
+        <Placemark id="2156237">
             <name>07.06.26 Боровая - Боровская Андреевка
 
 Активные боевые действия в районе Боровой.
@@ -1026,11 +1026,11 @@
                     <value>2026.06.07</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107730">
+            <Point id="2156236">
                 <coordinates>37.69585,49.4056,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107737">
+        <Placemark id="2156243">
             <name>08.06.26 Дополнительно. Позиция ВС РФ обстреляна ВСУ
 
  `47.587074, 35.362882` 
@@ -1049,11 +1049,11 @@
                     <value>2026.06.08</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107736">
+            <Point id="2156242">
                 <coordinates>35.362882,47.587074,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107743">
+        <Placemark id="2156249">
             <name>08.06.26 Дополнительно. Позиция ВС РФ обстреляна ВСУ
 
  `47.562098,35.511481`
@@ -1072,11 +1072,11 @@
                     <value>2026.06.08</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107742">
+            <Point id="2156248">
                 <coordinates>35.511481,47.562098,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107749">
+        <Placemark id="2156255">
             <name>08.06.26 Дополнительно. Позиция ВС РФ под огнём ВСУ
 
  `48.533621,37.668620` 
@@ -1095,11 +1095,11 @@
                     <value>2026.06.08</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107748">
+            <Point id="2156254">
                 <coordinates>37.668620,48.533621,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107755">
+        <Placemark id="2156261">
             <name>08.06.26 Волчанск - Волоховка
 
 Позиционные боевые действия в Харьковской зоне безопасности.
@@ -1122,11 +1122,11 @@
                     <value>2026.06.08</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107754">
+            <Point id="2156260">
                 <coordinates>37.135807,50.306428,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107761">
+        <Placemark id="2156267">
             <name>08.06.26 Глухов - Сопычь
 
 Позиционные боевые действия в Сумской зоне безопасности.
@@ -1149,11 +1149,11 @@
                     <value>2026.06.08</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107760">
+            <Point id="2156266">
                 <coordinates>34.346609,51.840365,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107767">
+        <Placemark id="2156273">
             <name>08.06.26 Купянск - Заосколье
 
 Активные боевые действия в Купянске.
@@ -1177,16 +1177,16 @@
                     <value>2026.06.08</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107766">
-                <Point id="2107768">
+            <MultiGeometry id="2156272">
+                <Point id="2156274">
                     <coordinates>37.63589,49.70889,0.0</coordinates>
                 </Point>
-                <Point id="2107770">
+                <Point id="2156276">
                     <coordinates>37.63620,49.69263,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107777">
+        <Placemark id="2156283">
             <name>08,06.26 Константиновка - Новодмитровка
 
 Штурм Константиновки.
@@ -1209,11 +1209,11 @@
                     <value>2026.06.08</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107776">
+            <Point id="2156282">
                 <coordinates>37.768711,48.546337,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107783">
+        <Placemark id="2156289">
             <name>09.06.26 Дополнительно. Позиция ВС РФ под огнём ВСУ
  
  `48.487883,37.609218`
@@ -1232,11 +1232,11 @@
                     <value>2026.06.09</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107782">
+            <Point id="2156288">
                 <coordinates>37.609218,48.487883,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107789">
+        <Placemark id="2156295">
             <name>09.06.26 Дополнительно. Позиция ВС РФ около шахты Запорожская под огнём ВСУ
 
  `48.357738,37.184562`
@@ -1255,11 +1255,11 @@
                     <value>2026.06.09</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107788">
+            <Point id="2156294">
                 <coordinates>37.184562,48.357738,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107795">
+        <Placemark id="2156301">
             <name>09.06.26 Славянск - Николаевка
 
 Активные боевые действия в районе Северска.
@@ -1282,11 +1282,11 @@
                     <value>2026.06.09</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107794">
+            <Point id="2156300">
                 <coordinates>37.8093,48.82978,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107801">
+        <Placemark id="2156307">
             <name>09.06.26 Красный Лиман - Липовое
 
 Позиционные боевые действия в районе Красного Лимана.
@@ -1310,11 +1310,11 @@
                     <value>2026.06.09</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107800">
+            <Point id="2156306">
                 <coordinates>37.784752,49.151432,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107807">
+        <Placemark id="2156313">
             <name>09.06.26 Краматорск - Беленькое
 
 Контрбатарейная борьба в районе Северска.
@@ -1337,11 +1337,11 @@
                     <value>2026.06.09</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107806">
+            <Point id="2156312">
                 <coordinates>37.671000,48.754567,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107813">
+        <Placemark id="2156319">
             <name>09.06.26 Красный Лиман - Заводской
 
 Позиционные боевые действия в Красном Лимане. 
@@ -1365,11 +1365,11 @@
                     <value>2026.06.09</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107812">
+            <Point id="2156318">
                 <coordinates>37.780060,49.003849,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107819">
+        <Placemark id="2156325">
             <name>10.06.26 Дополнительно. Обстрел позиции ВСУ
 
  `47.613834, 35.422835` 
@@ -1388,11 +1388,11 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107818">
+            <Point id="2156324">
                 <coordinates>35.422835,47.613834,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107825">
+        <Placemark id="2156331">
             <name>10.06.26 Красноармейск - Родинское
 
 Позиционные боевые действия в районе Красноармейска.
@@ -1414,11 +1414,11 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107824">
+            <Point id="2156330">
                 <coordinates>37.16515,48.37821,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107831">
+        <Placemark id="2156337">
             <name>10.06.26 Великая Новосёлка - Поддубное
 
 Позиционные боевые действия в районе Великой Новосёлки.
@@ -1443,16 +1443,16 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107830">
-                <Point id="2107832">
+            <MultiGeometry id="2156336">
+                <Point id="2156338">
                     <coordinates>36.668497,47.993996,0.0</coordinates>
                 </Point>
-                <Point id="2107834">
+                <Point id="2156340">
                     <coordinates>36.695720,48.003625,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107841">
+        <Placemark id="2156347">
             <name>10.06.26 Боровая - Новосергеевка
 
 Активные боевые действия в районе Боровой.
@@ -1475,11 +1475,11 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107840">
+            <Point id="2156346">
                 <coordinates>37.859682,49.336666,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107847">
+        <Placemark id="2156353">
             <name>10.06.26 Великая Новосёлка - Толстой
 
 Активные боевые действия в районе Великой Новосёлки.
@@ -1503,16 +1503,16 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107846">
-                <Point id="2107848">
+            <MultiGeometry id="2156352">
+                <Point id="2156354">
                     <coordinates>36.68789,48.03723,0.0</coordinates>
                 </Point>
-                <Point id="2107850">
+                <Point id="2156356">
                     <coordinates>36.67816,48.03889,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107857">
+        <Placemark id="2156363">
             <name>10.06.26 Каменское
 
 Позиционные боевые действия в районе Каменского.
@@ -1535,11 +1535,11 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107856">
+            <Point id="2156362">
                 <coordinates>35.42072,47.56088,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107863">
+        <Placemark id="2156369">
             <name>10.06.26 Степногорск
 
 Позиционные боевые действия в Степногорске.
@@ -1561,11 +1561,11 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107862">
+            <Point id="2156368">
                 <coordinates>35.37562,47.5854,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107869">
+        <Placemark id="2156375">
             <name>10.06.26 Покровское - Калиновское
 
 Позиционные боевые действия в Днепропетровской зоне безопасности.
@@ -1590,16 +1590,16 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107868">
-                <Point id="2107870">
+            <MultiGeometry id="2156374">
+                <Point id="2156376">
                     <coordinates>36.468228,47.855978,0.0</coordinates>
                 </Point>
-                <Point id="2107872">
+                <Point id="2156378">
                     <coordinates>36.4704302,47.8544256,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107879">
+        <Placemark id="2156385">
             <name>10.06.26 Дополнительно. Позиция ВС РФ в Вербовом обстреляна с дрона ВСУ
 
  `47.873601, 36.390576`
@@ -1618,11 +1618,11 @@
                     <value>2026.06.10</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107878">
+            <Point id="2156384">
                 <coordinates>36.390576,47.873601,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107885">
+        <Placemark id="2156391">
             <name>11.06.26 Дополнительно. Позиция ВС РФ под огнём ВСУ
  
  `50.257731, 36.942606` 
@@ -1641,11 +1641,11 @@
                     <value>2026.06.11</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107884">
+            <Point id="2156390">
                 <coordinates>36.942606,50.257731,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107891">
+        <Placemark id="2156397">
             <name>11.06.26 Дополнительно. Флаги РФ подняты южной Константиновке
 
  `48.536627, 37.668563` 
@@ -1664,11 +1664,11 @@
                     <value>2026.06.11</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107890">
+            <Point id="2156396">
                 <coordinates>37.668563,48.536627,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107897">
+        <Placemark id="2156403">
             <name>11.06.26 Константиновка - Роскошное
 
 Последствия боевых действий в районе Горловки.
@@ -1691,11 +1691,11 @@
                     <value>2026.06.11</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107896">
+            <Point id="2156402">
                 <coordinates>37.59393,48.49952,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107903">
+        <Placemark id="2156409">
             <name>11.06.26 Северск - Пискуновка
 
 Активные боевые действия в районе Северска.
@@ -1718,11 +1718,11 @@
                     <value>2026.06.11</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107902">
+            <Point id="2156408">
                 <coordinates>37.842529,48.885592,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107909">
+        <Placemark id="2156415">
             <name>11.06.26 Великая Новосёлка - Воскресенка
 
 Позиционные боевые действия в районе Великой Новосёлки.
@@ -1745,11 +1745,11 @@
                     <value>2026.06.11</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107908">
+            <Point id="2156414">
                 <coordinates>36.643361,47.952254,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107915">
+        <Placemark id="2156421">
             <name>11.06.26 Дополнительно. Обстрел со стороны ВСУ позиции ВС РФ около Александрограда.
 
 0:55 `47.969894, 36.620631` 
@@ -1768,11 +1768,11 @@
                     <value>2026.06.11</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107914">
+            <Point id="2156420">
                 <coordinates>36.620631,47.969894,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107921">
+        <Placemark id="2156427">
             <name>12.06.26 Дополнительно. Военнослужащий ВС РФ попала под обстрел на карьере
 
  `48.485858, 37.331736` 
@@ -1791,11 +1791,11 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107920">
+            <Point id="2156426">
                 <coordinates>37.331736,48.485858,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107927">
+        <Placemark id="2156433">
             <name>12.06.26 Дополнительно. Позиция ВС РФ под обстрелом ВСУ
 
  `49.715503, 37.613153` 
@@ -1815,16 +1815,16 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107926">
-                <Point id="2107928">
+            <MultiGeometry id="2156432">
+                <Point id="2156434">
                     <coordinates>37.613153,49.715503,0.0</coordinates>
                 </Point>
-                <Point id="2107930">
+                <Point id="2156436">
                     <coordinates>37.595596,49.728339,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107937">
+        <Placemark id="2156443">
             <name>12.06.26 Дополнительно. Позиция ВС РФ по обстрелом ВСУ
 
  `47.848848,36.40532` 
@@ -1843,11 +1843,11 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107936">
+            <Point id="2156442">
                 <coordinates>36.40532,47.848848,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107943">
+        <Placemark id="2156449">
             <name>12.06.26 Дополнительно. Обстрел ВСУ
 
  `47.788719,36.210785` 
@@ -1866,11 +1866,11 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107942">
+            <Point id="2156448">
                 <coordinates>36.210785,47.788719,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107949">
+        <Placemark id="2156455">
             <name>12.06.26 Орехов - Луговское
 
 Позиционные боевые действия в районе Орехова.
@@ -1893,11 +1893,11 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107948">
+            <Point id="2156454">
                 <coordinates>36.033738,47.546173,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107955">
+        <Placemark id="2156461">
             <name>12.06.26 Купянск - Кондрашовка
 
 Активные боевые действия в районе Купянска.
@@ -1922,16 +1922,16 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2107954">
-                <Point id="2107956">
+            <MultiGeometry id="2156460">
+                <Point id="2156462">
                     <coordinates>37.58712,49.76612,0.0</coordinates>
                 </Point>
-                <Point id="2107958">
+                <Point id="2156464">
                     <coordinates>37.57924,49.76060,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2107965">
+        <Placemark id="2156471">
             <name>12.06.26 Сумы - Мирополье
 
 Позиционные боевые действия в Сумской зоне безопасности.
@@ -1954,11 +1954,11 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107964">
+            <Point id="2156470">
                 <coordinates>35.26785,51.01806,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107971">
+        <Placemark id="2156477">
             <name>12.06.26 Великая Новосёлка - Поддубное
 
 Позиционные боевые действия в районе Великой Новосёлки.
@@ -1981,11 +1981,11 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107970">
+            <Point id="2156476">
                 <coordinates>36.694462,48.009159,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107977">
+        <Placemark id="2156483">
             <name>12.06.26 Дополнительно. Обстрел позиции ВСУ
 
  `48.008472, 36.698735` 
@@ -2004,11 +2004,11 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107976">
+            <Point id="2156482">
                 <coordinates>36.698735,48.008472,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107983">
+        <Placemark id="2156489">
             <name>12.06.26 Красноармейск - Новоалександровка
 
 Позиционные боевые действия в районе Красноармейска.
@@ -2031,11 +2031,11 @@
                     <value>2026.06.12</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107982">
+            <Point id="2156488">
                 <coordinates>37.10400,48.35794,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107989">
+        <Placemark id="2156495">
             <name>13.06.26 Дополнительно. Позиция ВСУ под огнём ВС РФ
 
  `47.825070, 36.295642` 
@@ -2054,11 +2054,11 @@
                     <value>2026.06.13</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107988">
+            <Point id="2156494">
                 <coordinates>36.295642,47.825070,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2107995">
+        <Placemark id="2156501">
             <name>13.06.26 Золочев - Новая Казачья
 
 Активные боевые действия в Харьковской зоне безопасности.
@@ -2081,11 +2081,11 @@
                     <value>2026.06.13</value>
                 </Data>
             </ExtendedData>
-            <Point id="2107994">
+            <Point id="2156500">
                 <coordinates>36.17641,50.30167,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108001">
+        <Placemark id="2156507">
             <name>13.06.26 Великая Новосёлка
 
 Активные боевые действия в районе Великой Новосёлки.
@@ -2108,11 +2108,11 @@
                     <value>2026.06.13</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108000">
+            <Point id="2156506">
                 <coordinates>36.63356,47.95243,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108007">
+        <Placemark id="2156513">
             <name>13.06.26 Волчанск - Волчанск 
 
 Позиционные боевые действия в Харьковской зоне безопасности.
@@ -2135,11 +2135,11 @@
                     <value>2026.06.13</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108006">
+            <Point id="2156512">
                 <coordinates>36.991415,50.285701,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108013">
+        <Placemark id="2156519">
             <name>13.06.26 Гуляйполе - Доброполье
 
 Активные боевые действия в районе Гуляйполя.
@@ -2163,11 +2163,11 @@
                     <value>2026.06.13</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108012">
+            <Point id="2156518">
                 <coordinates>36.256612,47.796923,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108019">
+        <Placemark id="2156525">
             <name>13.06.26 Красный Лиман - Коммунальный
 
 Позиционные боевые действия в Красном Лимане.
@@ -2190,11 +2190,11 @@
                     <value>2026.06.13</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108018">
+            <Point id="2156524">
                 <coordinates>37.829318,48.965424,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108025">
+        <Placemark id="2156531">
             <name>13.06.26 Красноармейск - Шевченко
 
 Позиционные боевые действия в районе Красноармейска.
@@ -2217,11 +2217,11 @@
                     <value>2026.06.13</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108024">
+            <Point id="2156530">
                 <coordinates>37.121456,48.369194,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108031">
+        <Placemark id="2156537">
             <name>14.06.26 Дополнительно. Флаги РФ в Кругляковке
 
  `49.532928, 37.709472`
@@ -2242,19 +2242,19 @@
                     <value>2026.06.14</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108030">
-                <Point id="2108032">
+            <MultiGeometry id="2156536">
+                <Point id="2156538">
                     <coordinates>37.709472,49.532928,0.0</coordinates>
                 </Point>
-                <Point id="2108034">
+                <Point id="2156540">
                     <coordinates>37.711692,49.537067,0.0</coordinates>
                 </Point>
-                <Point id="2108036">
+                <Point id="2156542">
                     <coordinates>37.700362,49.536258,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108043">
+        <Placemark id="2156549">
             <name>14.06.26 Дополнительно. В Купянске-Узловом подняты флаги РФ
 
  `49.659926, 37.655929` 
@@ -2274,16 +2274,16 @@
                     <value>2026.06.14</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108042">
-                <Point id="2108044">
+            <MultiGeometry id="2156548">
+                <Point id="2156550">
                     <coordinates>37.655929,49.659926,0.0</coordinates>
                 </Point>
-                <Point id="2108046">
+                <Point id="2156552">
                     <coordinates>37.657405,49.660242,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108053">
+        <Placemark id="2156559">
             <name>14.06.26 Гуляйполе - Косовцево
 
 Позиционные боевые действия в районе Гуляйполя.
@@ -2308,16 +2308,16 @@
                     <value>2026.06.14</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108052">
-                <Point id="2108054">
+            <MultiGeometry id="2156558">
+                <Point id="2156560">
                     <coordinates>36.127344,47.790333,0.0</coordinates>
                 </Point>
-                <Point id="2108056">
+                <Point id="2156562">
                     <coordinates>36.096886,47.740509,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108063">
+        <Placemark id="2156569">
             <name>14.06.26 Покровское - Терновое - Новогеоргиевка - Запорожское - Новониколаевка - Калиновское - Новогригоровка
 
 Позиционные боевые действия в Днепропетровской зоне безопасности. Обстрел со стороны ВС РФ позиций ВСУ в ряде населённых пунктов Днепропетровской и Запорожской областей на глубине до 8 км.
@@ -2348,40 +2348,40 @@
                     <value>2026.06.14</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108062">
-                <Point id="2108064">
+            <MultiGeometry id="2156568">
+                <Point id="2156570">
                     <coordinates>36.57241,47.86657,0.0</coordinates>
                 </Point>
-                <Point id="2108066">
+                <Point id="2156572">
                     <coordinates>36.450895,47.862621,0.0</coordinates>
                 </Point>
-                <Point id="2108068">
+                <Point id="2156574">
                     <coordinates>36.55195,47.892300,0.0</coordinates>
                 </Point>
-                <Point id="2108070">
+                <Point id="2156576">
                     <coordinates>36.461666,47.858266,0.0</coordinates>
                 </Point>
-                <Point id="2108072">
+                <Point id="2156578">
                     <coordinates>36.43664,47.812141,0.0</coordinates>
                 </Point>
-                <Point id="2108074">
+                <Point id="2156580">
                     <coordinates>36.464533,47.856890,0.0</coordinates>
                 </Point>
-                <Point id="2108076">
+                <Point id="2156582">
                     <coordinates>36.433050,47.814435,0.0</coordinates>
                 </Point>
-                <Point id="2108078">
+                <Point id="2156584">
                     <coordinates>36.554224,47.904359,0.0</coordinates>
                 </Point>
-                <Point id="2108080">
+                <Point id="2156586">
                     <coordinates>36.531570,47.862551,0.0</coordinates>
                 </Point>
-                <Point id="2108082">
+                <Point id="2156588">
                     <coordinates>36.474098,47.846078,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108089">
+        <Placemark id="2156595">
             <name>14.06.26 Боровая - Шийковка
 
 Последствия боевых действий в районе Боровой.
@@ -2404,11 +2404,11 @@
                     <value>2026.06.14</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108088">
+            <Point id="2156594">
                 <coordinates>37.764319,49.376312,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108095">
+        <Placemark id="2156601">
             <name>14.06.26 Купянск - Глушковка
 
 Последствия боевых действий в районе Купянска.
@@ -2432,16 +2432,16 @@
                     <value>2026.06.14</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108094">
-                <Point id="2108096">
+            <MultiGeometry id="2156600">
+                <Point id="2156602">
                     <coordinates>37.70513,49.60029,0.0</coordinates>
                 </Point>
-                <Point id="2108098">
+                <Point id="2156604">
                     <coordinates>37.71058,49.59873,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108105">
+        <Placemark id="2156611">
             <name>14.06.26 Купянск - Ковшаровка
 
 Последствия боевых действий в районе Купянска.
@@ -2465,16 +2465,16 @@
                     <value>2026.06.14</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108104">
-                <Point id="2108106">
+            <MultiGeometry id="2156610">
+                <Point id="2156612">
                     <coordinates>37.694203,49.624158,0.0</coordinates>
                 </Point>
-                <Point id="2108108">
+                <Point id="2156614">
                     <coordinates>37.691164,49.624547,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108115">
+        <Placemark id="2156621">
             <name>14.06.26 Боровая - Загрызово
 
 Последствия боевых действий в районе Боровой.
@@ -2497,11 +2497,11 @@
                     <value>2026.06.14</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108114">
+            <Point id="2156620">
                 <coordinates>37.718626,49.492536,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108121">
+        <Placemark id="2156627">
             <name>15.06.26 Дополнительно. Позиции ВС РФ под обстрелом ВСУ
 
 0:14 `49.659492, 37.666063 `
@@ -2521,16 +2521,16 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108120">
-                <Point id="2108122">
+            <MultiGeometry id="2156626">
+                <Point id="2156628">
                     <coordinates>37.666063,49.659492,0.0</coordinates>
                 </Point>
-                <Point id="2108124">
+                <Point id="2156630">
                     <coordinates>37.666862,49.658228,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108131">
+        <Placemark id="2156637">
             <name>15.06.26 Дополнительно. Позиция ВC РФ под обстрелом
 
  `50.392671,37.465022`
@@ -2549,11 +2549,11 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108130">
+            <Point id="2156636">
                 <coordinates>37.465022,50.392671,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108137">
+        <Placemark id="2156643">
             <name>15.06.26 Дополнительно. Движение военнослужащего ВС РФ
 
  `48.986942, 37.823233 `
@@ -2572,11 +2572,11 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108136">
+            <Point id="2156642">
                 <coordinates>37.823233,48.986942,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108143">
+        <Placemark id="2156649">
             <name>15.06.26 Дополнительно. В частном секторе на севере города поднят флаг РФ. События вероятно конец апреля - начало мая 2026 
 
  `49.004596, 37.796466` 
@@ -2595,11 +2595,11 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108142">
+            <Point id="2156648">
                 <coordinates>37.796466,49.004596,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108149">
+        <Placemark id="2156655">
             <name>15.06.26 Дополнительно. В Артёма (Долгой Балке) подняты флаги Российской Федерации
 
 0:13 `48.48778 37.60095 `
@@ -2622,25 +2622,25 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108148">
-                <Point id="2108150">
+            <MultiGeometry id="2156654">
+                <Point id="2156656">
                     <coordinates>37.60095,48.48778,0.0</coordinates>
                 </Point>
-                <Point id="2108152">
+                <Point id="2156658">
                     <coordinates>37.60347,48.49507,0.0</coordinates>
                 </Point>
-                <Point id="2108154">
+                <Point id="2156660">
                     <coordinates>37.60871,48.49687,0.0</coordinates>
                 </Point>
-                <Point id="2108156">
+                <Point id="2156662">
                     <coordinates>37.60975,48.48343,0.0</coordinates>
                 </Point>
-                <Point id="2108158">
+                <Point id="2156664">
                     <coordinates>37.60553,48.47592,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108165">
+        <Placemark id="2156671">
             <name>15.06.26 Константиновка - Красный городок
 
 Штурм Константиновки.
@@ -2666,22 +2666,22 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108164">
-                <Point id="2108166">
+            <MultiGeometry id="2156670">
+                <Point id="2156672">
                     <coordinates>37.674992,48.521703,0.0</coordinates>
                 </Point>
-                <Point id="2108168">
+                <Point id="2156674">
                     <coordinates>37.665741,48.511264,0.0</coordinates>
                 </Point>
-                <Point id="2108170">
+                <Point id="2156676">
                     <coordinates>37.671682,48.510881,0.0</coordinates>
                 </Point>
-                <Point id="2108172">
+                <Point id="2156678">
                     <coordinates>37.677237,48.513591,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108179">
+        <Placemark id="2156685">
             <name>15.06.26 Сумы - Бессаловка
 
 Позиционные боевые действия в Сумской зоне безопасности. 
@@ -2704,11 +2704,11 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108178">
+            <Point id="2156684">
                 <coordinates>34.392175,51.265630,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108185">
+        <Placemark id="2156691">
             <name>15.06.26 Волчанск - Резниково
 
 Активные боевые действия в Харьковской зоне безопасности. 
@@ -2731,11 +2731,11 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108184">
+            <Point id="2156690">
                 <coordinates>37.418634,50.317867,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108191">
+        <Placemark id="2156697">
             <name>15.06.26 Краматорск - Малиновка
 
 Позиционные боевые действия в районе Славянска.
@@ -2758,11 +2758,11 @@
                     <value>2026.06.15</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108190">
+            <Point id="2156696">
                 <coordinates>37.79302,48.71913,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108197">
+        <Placemark id="2156703">
             <name>16.06.26 Дополнительно. Обстрел позиции РФ
 
  `50.801202, 35.374995` 
@@ -2781,11 +2781,11 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108196">
+            <Point id="2156702">
                 <coordinates>35.374995,50.801202,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108203">
+        <Placemark id="2156709">
             <name>16.06.26 Дополнительно. Военнослужащий ВС РФ попал под огонь ВСУ
 
  `48.971062,37.833086 `
@@ -2804,11 +2804,11 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108202">
+            <Point id="2156708">
                 <coordinates>37.833086,48.971062,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108209">
+        <Placemark id="2156715">
             <name>16.06.26 Дополнительно. Флаг РФ в Константиновке
 
 0:02 `48.527465,37.703281`
@@ -2829,16 +2829,16 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108208">
-                <Point id="2108210">
+            <MultiGeometry id="2156714">
+                <Point id="2156716">
                     <coordinates>37.698692,48.538714,0.0</coordinates>
                 </Point>
-                <Point id="2108212">
+                <Point id="2156718">
                     <coordinates>37.703281,48.527465,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108219">
+        <Placemark id="2156725">
             <name>16.06.26 Дополнительно. Обстрел позиции ВСУ
 
  `48.381081, 37.157371 `
@@ -2857,11 +2857,11 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108218">
+            <Point id="2156724">
                 <coordinates>37.157371,48.381081,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108225">
+        <Placemark id="2156731">
             <name>16.06.26 Золочев - Казачья Лопань 
 
 Позиционные боевые действия в Харьковской зоне безопасности.
@@ -2884,11 +2884,11 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108224">
+            <Point id="2156730">
                 <coordinates>36.204258,50.358349,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108231">
+        <Placemark id="2156737">
             <name>16.06.26 Купянск - Подолы
 
 Активные боевые действия в районе Купянска.
@@ -2912,16 +2912,16 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108230">
-                <Point id="2108232">
+            <MultiGeometry id="2156736">
+                <Point id="2156738">
                     <coordinates>37.67634,49.69182,0.0</coordinates>
                 </Point>
-                <Point id="2108234">
+                <Point id="2156740">
                     <coordinates>37.67313,49.68074,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108241">
+        <Placemark id="2156747">
             <name>16.06.26 Северск - Пискуновка
 
 Последствия боевых действий в районе Северска.
@@ -2946,16 +2946,16 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108240">
-                <Point id="2108242">
+            <MultiGeometry id="2156746">
+                <Point id="2156748">
                     <coordinates>37.86569,48.87613,0.0</coordinates>
                 </Point>
-                <Point id="2108244">
+                <Point id="2156750">
                     <coordinates>37.8700,48.87414,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108251">
+        <Placemark id="2156757">
             <name>16.06.26 Красный Лиман - Центральный
 
 Позиционные боевые действия в Красном Лимане.
@@ -2978,11 +2978,11 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108250">
+            <Point id="2156756">
                 <coordinates>37.796577,48.981815,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108257">
+        <Placemark id="2156763">
             <name>16.06.26 Степногорск
 
 Позиционные боевые действия в Степногорске.
@@ -3005,11 +3005,11 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108256">
+            <Point id="2156762">
                 <coordinates>35.355533,47.585270,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108263">
+        <Placemark id="2156769">
             <name>16.06.26 Золочев - Казачья Лопань
 
 Позиционные боевые действия в Харьковской зоне безопасности.
@@ -3033,16 +3033,16 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108262">
-                <Point id="2108264">
+            <MultiGeometry id="2156768">
+                <Point id="2156770">
                     <coordinates>36.207362,50.350284,0.0</coordinates>
                 </Point>
-                <Point id="2108266">
+                <Point id="2156772">
                     <coordinates>36.213550,50.357905,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108273">
+        <Placemark id="2156779">
             <name>16,06.26 Краматорск - Фёдоровка
 
 Активные боевые действия в районе Артёмовска.
@@ -3064,11 +3064,11 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108272">
+            <Point id="2156778">
                 <coordinates>37.759141,48.650433,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108279">
+        <Placemark id="2156785">
             <name>16.06.26 Краснополье - Рясное
 
 Позиционные боевые действия в Сумской зоне безопасности.
@@ -3093,16 +3093,16 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108278">
-                <Point id="2108280">
+            <MultiGeometry id="2156784">
+                <Point id="2156786">
                     <coordinates>35.398442,50.686798,0.0</coordinates>
                 </Point>
-                <Point id="2108282">
+                <Point id="2156788">
                     <coordinates>35.393265,50.689945,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108289">
+        <Placemark id="2156795">
             <name>16.06.26 Степногорск - Новояковлевка
 
 Позиционные боевые действия в районе Каменского.
@@ -3126,11 +3126,11 @@
                     <value>2026.06.16</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108288">
+            <Point id="2156794">
                 <coordinates>35.503908,47.618050,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108295">
+        <Placemark id="2156801">
             <name>17.06.26 Дополнительно. Позиция ВСУ под обстрелом ВСУ РФ. Май 2026(?)
 
  `47.552013, 35.575769`
@@ -3149,11 +3149,11 @@
                     <value>2026.06.17</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108294">
+            <Point id="2156800">
                 <coordinates>35.575769,47.552013,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108301">
+        <Placemark id="2156807">
             <name>17.06.26 Дополнительно. В жилой застройке подняты флаги РФ
 
  `48.53470 37.72997` 
@@ -3173,16 +3173,16 @@
                     <value>2026.06.17</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108300">
-                <Point id="2108302">
+            <MultiGeometry id="2156806">
+                <Point id="2156808">
                     <coordinates>37.72997,48.53470,0.0</coordinates>
                 </Point>
-                <Point id="2108304">
+                <Point id="2156810">
                     <coordinates>37.70864,48.53730,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108311">
+        <Placemark id="2156817">
             <name>17.06.26 Красный Лиман - Южный - Центральный
 
 Активные боевые действия в Красном Лимане.
@@ -3211,22 +3211,22 @@
                     <value>2026.06.17</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108310">
-                <Point id="2108312">
+            <MultiGeometry id="2156816">
+                <Point id="2156818">
                     <coordinates>37.81119,48.98806,0.0</coordinates>
                 </Point>
-                <Point id="2108314">
+                <Point id="2156820">
                     <coordinates>37.80724,48.98584,0.0</coordinates>
                 </Point>
-                <Point id="2108316">
+                <Point id="2156822">
                     <coordinates>37.80336,48.96878,0.0</coordinates>
                 </Point>
-                <Point id="2108318">
+                <Point id="2156824">
                     <coordinates>37.82976,48.94864,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108325">
+        <Placemark id="2156831">
             <name>17.06.26 Краматорск - Васютинское
 
 Активные боевые действия в районе Артёмовска.
@@ -3249,11 +3249,11 @@
                     <value>2026.06.17</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108324">
+            <Point id="2156830">
                 <coordinates>37.759233,48.693774,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108331">
+        <Placemark id="2156837">
             <name>17.06.26 Гуляйполе - Сладкое
 
 Позиционные боевые действия в районе Гуляйполя.
@@ -3276,11 +3276,11 @@
                     <value>2026.06.17</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108330">
+            <Point id="2156836">
                 <coordinates>36.27362,47.7727,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108337">
+        <Placemark id="2156843">
             <name>18.06.26 Дополнительно. Пикап ВСУ попал под обстрел ВС РФ
 
  `49.040688, 37.685884` 
@@ -3299,11 +3299,11 @@
                     <value>2026.06.18</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108336">
+            <Point id="2156842">
                 <coordinates>37.685884,49.040688,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108343">
+        <Placemark id="2156849">
             <name>18.06.26 Дополнительно. Обстрел позиции ВСУ около Сладкого
 
  `47.803189, 36.315565`
@@ -3322,11 +3322,11 @@
                     <value>2026.06.18</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108342">
+            <Point id="2156848">
                 <coordinates>36.315565,47.803189,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108349">
+        <Placemark id="2156855">
             <name>18.06.26 Дополнительно. Позиция ВСУ под огнём ВС РФ
 
  `47.795456, 36.313527` 
@@ -3345,11 +3345,11 @@
                     <value>2026.06.18</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108348">
+            <Point id="2156854">
                 <coordinates>36.313527,47.795456,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108355">
+        <Placemark id="2156861">
             <name>18.06.26 Северск - Рай-Александровка
 
 Последствия боевых действий в районе Северска.
@@ -3377,28 +3377,28 @@
                     <value>2026.06.18</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108354">
-                <Point id="2108356">
+            <MultiGeometry id="2156860">
+                <Point id="2156862">
                     <coordinates>37.84456,48.80614,0.0</coordinates>
                 </Point>
-                <Point id="2108358">
+                <Point id="2156864">
                     <coordinates>37.85157,48.80667,0.0</coordinates>
                 </Point>
-                <Point id="2108360">
+                <Point id="2156866">
                     <coordinates>37.87770,48.82171,0.0</coordinates>
                 </Point>
-                <Point id="2108362">
+                <Point id="2156868">
                     <coordinates>37.83422,48.81616,0.0</coordinates>
                 </Point>
-                <Point id="2108364">
+                <Point id="2156870">
                     <coordinates>37.83382,48.81482,0.0</coordinates>
                 </Point>
-                <Point id="2108366">
+                <Point id="2156872">
                     <coordinates>37.84185,48.80398,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108373">
+        <Placemark id="2156879">
             <name>18.06.26 Константиновка - Исторический Центр
 
 Штурм Константиновки.
@@ -3422,11 +3422,11 @@
                     <value>2026.06.18</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108372">
+            <Point id="2156878">
                 <coordinates>37.6933,48.53453,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108379">
+        <Placemark id="2156885">
             <name>18.06.26 Степногорск - Приморское
 
 Позиционные боевые действия в районе Каменского.
@@ -3449,11 +3449,11 @@
                     <value>2026.06.18</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108378">
+            <Point id="2156884">
                 <coordinates>35.28661,47.60062,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108385">
+        <Placemark id="2156891">
             <name>19.06.26 Дополнительно. Стрелковый бой в восточной части Закотного
 
  `48.896225, 37.970169` 
@@ -3472,11 +3472,11 @@
                     <value>2026.06.19</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108384">
+            <Point id="2156890">
                 <coordinates>37.970169,48.896225,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108391">
+        <Placemark id="2156897">
             <name>19.06.26 Дополнительно. Позиция ВС РФ под огнём ВСУ
 
  `48.970568,37.836102`
@@ -3495,11 +3495,11 @@
                     <value>2026.06.19</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108390">
+            <Point id="2156896">
                 <coordinates>37.836102,48.970568,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108397">
+        <Placemark id="2156903">
             <name>19.06.26 Красный Лиман - Центральный - Южный
 
 Последствия боевых действий в Красном Лимане.
@@ -3526,19 +3526,19 @@
                     <value>2026.06.19</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108396">
-                <Point id="2108398">
+            <MultiGeometry id="2156902">
+                <Point id="2156904">
                     <coordinates>37.79303,48.98485,0.0</coordinates>
                 </Point>
-                <Point id="2108400">
+                <Point id="2156906">
                     <coordinates>37.8237,48.96479,0.0</coordinates>
                 </Point>
-                <Point id="2108402">
+                <Point id="2156908">
                     <coordinates>37.81791,48.96682,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108409">
+        <Placemark id="2156915">
             <name>19.06.26 Золочев
 
 Уничтожение инфраструктурных объектов Украины.
@@ -3560,11 +3560,11 @@
                     <value>2026.06.19</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108408">
+            <Point id="2156914">
                 <coordinates>35.99643,50.2715,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108415">
+        <Placemark id="2156921">
             <name>19.06.26 Славянск - Юрковка - канала Северский Донец - Донбасс
 
 Последствия боевых действий в районе Славянска.
@@ -3587,11 +3587,11 @@
                     <value>2026.06.19</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108414">
+            <Point id="2156920">
                 <coordinates>37.796775,48.778837,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108421">
+        <Placemark id="2156927">
             <name>19.06.26 Константиновка - Исторический центр
 
 Штурм Константиновки.
@@ -3615,19 +3615,19 @@
                     <value>2026.06.19</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108420">
-                <Point id="2108422">
+            <MultiGeometry id="2156926">
+                <Point id="2156928">
                     <coordinates>37.68565,48.54401,0.0</coordinates>
                 </Point>
-                <Point id="2108424">
+                <Point id="2156930">
                     <coordinates>37.69754,48.5399,0.0</coordinates>
                 </Point>
-                <Point id="2108426">
+                <Point id="2156932">
                     <coordinates>37.70449,48.54347,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108433">
+        <Placemark id="2156939">
             <name>19.06.26 Красный Лиман - Северный
 
 Активные боевые действия в Красном Лимане.
@@ -3649,11 +3649,11 @@
                     <value>2026.06.19</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108432">
+            <Point id="2156938">
                 <coordinates>37.79212,48.99185,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108439">
+        <Placemark id="2156945">
             <name>20.06.26 Дополнительно Позиция ВС РФ под обстрелом ВСУ
 
  `48.062290,36.690660` 
@@ -3672,11 +3672,11 @@
                     <value>2026.06.20</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108438">
+            <Point id="2156944">
                 <coordinates>36.690660,48.062290,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108445">
+        <Placemark id="2156951">
             <name>20.06.26 Дополнительно. Военнослужащий ВС РФ попал под обстрел ВСУ
 
  `47.645808, 36.12321` 
@@ -3695,11 +3695,11 @@
                     <value>2026.06.20</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108444">
+            <Point id="2156950">
                 <coordinates>36.12321,47.645808,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108451">
+        <Placemark id="2156957">
             <name>20.06.26 Дополнительно. наблюдательный пост ВС РФ обстреляна ВСУ. 
 
  `51.117528, 34.937249`
@@ -3718,11 +3718,11 @@
                     <value>2026.06.20</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108450">
+            <Point id="2156956">
                 <coordinates>34.937249,51.117528,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108457">
+        <Placemark id="2156963">
             <name>20.06.26 Красный Лиман - Центральный
 
 Последствия боевых действий в Красном Лимане.
@@ -3745,11 +3745,11 @@
                     <value>2026.06.20</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108456">
+            <Point id="2156962">
                 <coordinates>37.816680,48.980753,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108463">
+        <Placemark id="2156969">
             <name>20.06.26 Купянск - Радьковка
 
 Активные боевые действия в районе Купянска.
@@ -3776,19 +3776,19 @@
                     <value>2026.06.20</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108462">
-                <Point id="2108464">
+            <MultiGeometry id="2156968">
+                <Point id="2156970">
                     <coordinates>37.61854,49.75075,0.0</coordinates>
                 </Point>
-                <Point id="2108466">
+                <Point id="2156972">
                     <coordinates>37.59025,49.75091,0.0</coordinates>
                 </Point>
-                <Point id="2108468">
+                <Point id="2156974">
                     <coordinates>37.5892,49.74933,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108475">
+        <Placemark id="2156981">
             <name>20.06.26 Северск - Рай-Александровка
 
 Позиционные боевые действия в районе Северска.
@@ -3811,11 +3811,11 @@
                     <value>2026.06.20</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108474">
+            <Point id="2156980">
                 <coordinates>37.843147,48.800992,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108481">
+        <Placemark id="2156987">
             <name>21.06.26 Дополнительно. Позиция ВС РФ обстреляна ВСУ
 
  `47.489292,35.862646 `
@@ -3834,11 +3834,11 @@
                     <value>2026.06.21</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108480">
+            <Point id="2156986">
                 <coordinates>35.862646,47.489292,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108487">
+        <Placemark id="2156993">
             <name>21.06.26 Дополнительно. Позиция ВСУ под огнём ВС РФ
 
  `47.799002, 36.291597 ` 
@@ -3857,11 +3857,11 @@
                     <value>2026.06.21</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108486">
+            <Point id="2156992">
                 <coordinates>36.291597,47.799002,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108493">
+        <Placemark id="2156999">
             <name>21.06.26 Северск - Кривая Лука - Пискуновка
 
 Позиционные боевые действия в районе Северска.
@@ -3886,16 +3886,16 @@
                     <value>2026.06.21</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108492">
-                <Point id="2108494">
+            <MultiGeometry id="2156998">
+                <Point id="2157000">
                     <coordinates>37.876529,48.860157,0.0</coordinates>
                 </Point>
-                <Point id="2108496">
+                <Point id="2157002">
                     <coordinates>37.900862,48.874381,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108503">
+        <Placemark id="2157009">
             <name>21.06.26 Орехов - Новоданиловка
 
 Позиционные боевые действия в районе Орехова.
@@ -3918,11 +3918,11 @@
                     <value>2026.06.21</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108502">
+            <Point id="2157008">
                 <coordinates>35.833043,47.521451,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108509">
+        <Placemark id="2157015">
             <name>21.06.26 Красноармейск - Белицкое
 
 Позиционные боевые дейс твия в районе Красноармейска.
@@ -3945,11 +3945,11 @@
                     <value>2026.06.21</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108508">
+            <Point id="2157014">
                 <coordinates>37.192789,48.405285,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108515">
+        <Placemark id="2157021">
             <name>21.06.26 Волчанск - Вильча
 
 Позиционные боевые действия в Харьковской зоне безопасности.
@@ -3972,11 +3972,11 @@
                     <value>2026.06.21</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108514">
+            <Point id="2157020">
                 <coordinates>36.956270,50.254463,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108521">
+        <Placemark id="2157027">
             <name>22.06.26 Дополнительно. Позиция ВС РФ обстреляна ВСУ
 
  `47.550836, 35.552316`
@@ -3995,11 +3995,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108520">
+            <Point id="2157026">
                 <coordinates>35.552316,47.550836,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108527">
+        <Placemark id="2157033">
             <name>22.06.26 Дополнительно. Позиции ВС РФ под обстрелом ВСУ
 
  `49.725821, 37.602430` 
@@ -4022,25 +4022,25 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108526">
-                <Point id="2108528">
+            <MultiGeometry id="2157032">
+                <Point id="2157034">
                     <coordinates>37.602430,49.725821,0.0</coordinates>
                 </Point>
-                <Point id="2108530">
+                <Point id="2157036">
                     <coordinates>37.602757,49.729081,0.0</coordinates>
                 </Point>
-                <Point id="2108532">
+                <Point id="2157038">
                     <coordinates>37.605552,49.731030,0.0</coordinates>
                 </Point>
-                <Point id="2108534">
+                <Point id="2157040">
                     <coordinates>37.605740,49.728089,0.0</coordinates>
                 </Point>
-                <Point id="2108536">
+                <Point id="2157042">
                     <coordinates>37.608899,49.724757,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108543">
+        <Placemark id="2157049">
             <name>22.06.26 Дополнительно. Позиция ВС РФ под ударом ВСУ
 
 2:58 `48.037875 36.686820`
@@ -4059,11 +4059,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108542">
+            <Point id="2157048">
                 <coordinates>36.686820,48.037875,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108549">
+        <Placemark id="2157055">
             <name>22.06.26 Дополнительно. Позиция ВСУ под обстрелом ВС РФ
 
  `47.799278, 36.267536`
@@ -4082,11 +4082,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108548">
+            <Point id="2157054">
                 <coordinates>36.267536,47.799278,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108555">
+        <Placemark id="2157061">
             <name>22.06.26 Константиновка - Червоный
 
 Штурм Константиновки.
@@ -4108,11 +4108,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108554">
+            <Point id="2157060">
                 <coordinates>37.671985,48.545958,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108561">
+        <Placemark id="2157067">
             <name>22.06.26 Запорожье - Высокогорное
 
 Уничтожение инфраструктурных объектов Украины.
@@ -4134,11 +4134,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108560">
+            <Point id="2157066">
                 <coordinates>34.952145,47.856741,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108567">
+        <Placemark id="2157073">
             <name>22.06.26 Очаков - Первомайский
 
 Боевые действия в дельте Днепра.
@@ -4160,11 +4160,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108566">
+            <Point id="2157072">
                 <coordinates>31.56098,46.57055,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108573">
+        <Placemark id="2157079">
             <name>22.06.26 Покровское - Вербовое
 
 Позиционные боевые действия в Днепропетровской зоне безопасности.
@@ -4188,16 +4188,16 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108572">
-                <Point id="2108574">
+            <MultiGeometry id="2157078">
+                <Point id="2157080">
                     <coordinates>36.397918,47.866556,0.0</coordinates>
                 </Point>
-                <Point id="2108576">
+                <Point id="2157082">
                     <coordinates>36.389171,47.876883,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108583">
+        <Placemark id="2157089">
             <name>22.06.26 Купянск - Куриловка
 
 Позиционные боевые действия в районе Купянска.
@@ -4220,11 +4220,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108582">
+            <Point id="2157088">
                 <coordinates>37.679168,49.669355,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108589">
+        <Placemark id="2157095">
             <name>22.06.26 Красный Лиман - Южный
 
 Последствия боевых действий в Красном Лимане.
@@ -4246,11 +4246,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108588">
+            <Point id="2157094">
                 <coordinates>37.80173,48.97021,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108595">
+        <Placemark id="2157101">
             <name>22.06.26 Краснополье - Рясное
 
 Позиционные боевые действия в Сумской зоне безопасности.
@@ -4273,11 +4273,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108594">
+            <Point id="2157100">
                 <coordinates>35.395564,50.685649,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108601">
+        <Placemark id="2157107">
             <name>22.06.26 Сумы - Кондратовка
 
 Позиционные боевые действия в Сумской зоне безопасности.
@@ -4300,11 +4300,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108600">
+            <Point id="2157106">
                 <coordinates>34.773198,51.143623,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108607">
+        <Placemark id="2157113">
             <name>22.06.26 Боровая - Свердловка
 
 Активные боевые действия в районе Боровой.
@@ -4327,11 +4327,11 @@
                     <value>2026.06.22</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108606">
+            <Point id="2157112">
                 <coordinates>37.927573,49.331378,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108613">
+        <Placemark id="2157119">
             <name>23.06.26 Дополнительно. Позиция ВС РФ в Доброполье под огнём ВСУ
 
  0:14 `47.785640,36.189543` 
@@ -4350,11 +4350,11 @@
                     <value>2026.06.23</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108612">
+            <Point id="2157118">
                 <coordinates>36.189543,47.785640,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108619">
+        <Placemark id="2157125">
             <name>23.06.26 Дополнительно. Позиции ВСУ под огнём ВС РФ.
 
 1:00 `47.593025, 35.294258`
@@ -4375,19 +4375,19 @@
                     <value>2026.06.23</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108618">
-                <Point id="2108620">
+            <MultiGeometry id="2157124">
+                <Point id="2157126">
                     <coordinates>35.294258,47.593025,0.0</coordinates>
                 </Point>
-                <Point id="2108622">
+                <Point id="2157128">
                     <coordinates>35.287347,47.611297,0.0</coordinates>
                 </Point>
-                <Point id="2108624">
+                <Point id="2157130">
                     <coordinates>35.303433,47.585006,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108631">
+        <Placemark id="2157137">
             <name>23.06.26 Константиновка - Новосёловка
 
 Штурм Константиновки.
@@ -4410,11 +4410,11 @@
                     <value>2026.06.23</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108630">
+            <Point id="2157136">
                 <coordinates>37.645453,48.529194,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108637">
+        <Placemark id="2157143">
             <name>23.06.26 Купянск - Заосколье
 
 Боевые действия в Купянске.
@@ -4439,16 +4439,16 @@
                     <value>2026.06.23</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108636">
-                <Point id="2108638">
+            <MultiGeometry id="2157142">
+                <Point id="2157144">
                     <coordinates>37.63694,49.68823,0.0</coordinates>
                 </Point>
-                <Point id="2108640">
+                <Point id="2157146">
                     <coordinates>37.64977,49.70989,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108647">
+        <Placemark id="2157153">
             <name>23.06.26 Золочев - Казачья Лопань
 
 Позиционные боевые действия в Харьковской зоне безопасности.
@@ -4470,11 +4470,11 @@
                     <value>2026.06.23</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108646">
+            <Point id="2157152">
                 <coordinates>36.20019,50.35542,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108653">
+        <Placemark id="2157159">
             <name>23.06.26 Северск - Каленики
 
 Позиционные боевые действия в районе Северска.
@@ -4497,11 +4497,11 @@
                     <value>2026.06.23</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108652">
+            <Point id="2157158">
                 <coordinates>37.870566,48.836776,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108659">
+        <Placemark id="2157165">
             <name>23.06.26 Северск - Рай-Александровка
 
 Позиционные боевые действия в районе Северска.
@@ -4526,16 +4526,16 @@
                     <value>2026.06.23</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108658">
-                <Point id="2108660">
+            <MultiGeometry id="2157164">
+                <Point id="2157166">
                     <coordinates>37.85130,48.792501,0.0</coordinates>
                 </Point>
-                <Point id="2108662">
+                <Point id="2157168">
                     <coordinates>37.958917,48.774481,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108669">
+        <Placemark id="2157175">
             <name>24.06.26 Дополнительно. Позиция ВС РФ в опорном пункте под огнём ВСУ
 
 0:21 `48.203023,36.933952`
@@ -4554,11 +4554,11 @@
                     <value>2026.06.24</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108668">
+            <Point id="2157174">
                 <coordinates>36.933952,48.203023,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108675">
+        <Placemark id="2157181">
             <name>24.06.26 Дополнительно. Позиция ВСУ под огнём ВС РФ
 
  `48.778617, 37.896562`
@@ -4577,11 +4577,11 @@
                     <value>2026.06.24</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108674">
+            <Point id="2157180">
                 <coordinates>37.896562,48.778617,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108681">
+        <Placemark id="2157187">
             <name>24.06.26 Гуляйполе - Терноватое
 
 Активные боевые действия в районе Гуляйполя.
@@ -4604,11 +4604,11 @@
                     <value>2026.06.24</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108680">
+            <Point id="2157186">
                 <coordinates>36.122637,47.843630,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108687">
+        <Placemark id="2157193">
             <name>24.06.26 Купянск - Заосколье
 
 Позиционные боевые действия в Купянске.
@@ -4631,11 +4631,11 @@
                     <value>2026.06.24</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108686">
+            <Point id="2157192">
                 <coordinates>37.633733,49.724461,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108693">
+        <Placemark id="2157199">
             <name>24.06.26 Славянск - Николаевка
 
 Уничтожение инфраструктурных объектов Украины.
@@ -4658,16 +4658,16 @@
                     <value>2026.06.24</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108692">
-                <Point id="2108694">
+            <MultiGeometry id="2157198">
+                <Point id="2157200">
                     <coordinates>37.765614,48.868756,0.0</coordinates>
                 </Point>
-                <Point id="2108696">
+                <Point id="2157202">
                     <coordinates>37.766136,48.872605,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108703">
+        <Placemark id="2157209">
             <name>24.06.26 Степногорск - Приморское - Плавни
 
 Позиционные боевые действия в районе Каменского.
@@ -4694,25 +4694,25 @@
                     <value>2026.06.24</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108702">
-                <Point id="2108704">
+            <MultiGeometry id="2157208">
+                <Point id="2157210">
                     <coordinates>35.40595,47.59825,0.0</coordinates>
                 </Point>
-                <Point id="2108706">
+                <Point id="2157212">
                     <coordinates>35.284325,47.607653,0.0</coordinates>
                 </Point>
-                <Point id="2108708">
+                <Point id="2157214">
                     <coordinates>35.286058,47.606067,0.0</coordinates>
                 </Point>
-                <Point id="2108710">
+                <Point id="2157216">
                     <coordinates>35.330689,47.565689,0.0</coordinates>
                 </Point>
-                <Point id="2108712">
+                <Point id="2157218">
                     <coordinates>35.288144,47.600808,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108719">
+        <Placemark id="2157225">
             <name>25.06.26 Покровское - Терновое
 
 Позиционные боевые действия в Днепропетровской области.
@@ -4735,11 +4735,11 @@
                     <value>2026.06.25</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108718">
+            <Point id="2157224">
                 <coordinates>36.530000,47.887371,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108725">
+        <Placemark id="2157231">
             <name>25.06.26 Красный Лиман - Коммунальный
 
 Позиционные боевые действия в Красном Лимане.
@@ -4762,11 +4762,11 @@
                     <value>2026.06.25</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108724">
+            <Point id="2157230">
                 <coordinates>37.828696,48.966164,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108731">
+        <Placemark id="2157237">
             <name>25.06.26 Степногорск - Плавни
 
 Активные боевые действия в районе Каменского.
@@ -4789,11 +4789,11 @@
                     <value>2026.06.25</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108730">
+            <Point id="2157236">
                 <coordinates>35.327864,47.573389,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108737">
+        <Placemark id="2157243">
             <name>25.06.26 Степногорск - Плавни
 
 Позиционные боевые действия в районе Каменского.
@@ -4816,11 +4816,11 @@
                     <value>2026.06.25</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108736">
+            <Point id="2157242">
                 <coordinates>35.330975,47.562054,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108743">
+        <Placemark id="2157249">
             <name>25.06.26 Красный Лиман - Новое
 
 Активные боевые действия в районе Красного Лимана.
@@ -4843,11 +4843,11 @@
                     <value>2026.06.25</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108742">
+            <Point id="2157248">
                 <coordinates>37.825011,49.160622,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108749">
+        <Placemark id="2157255">
             <name>26.06.26 Дополнительно.
 
 Позиция ВС РФ около железнодорожной станции под огнём ВСУ
@@ -4868,11 +4868,11 @@
                     <value>2026.06.26</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108748">
+            <Point id="2157254">
                 <coordinates>37.822124,48.969009,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108755">
+        <Placemark id="2157261">
             <name>26.06.26 Дополнительно. Позиции ВСУ под огнём ВС РФ
 
 0:56 `47.587803, 35.301864` 
@@ -4892,16 +4892,16 @@
                     <value>2026.06.26</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108754">
-                <Point id="2108756">
+            <MultiGeometry id="2157260">
+                <Point id="2157262">
                     <coordinates>35.301864,47.587803,0.0</coordinates>
                 </Point>
-                <Point id="2108758">
+                <Point id="2157264">
                     <coordinates>35.311652,47.580977,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108765">
+        <Placemark id="2157271">
             <name>26.06.26 Красный Лиман - Южный
 
 Боевые действия в Красном Лимане.
@@ -4924,11 +4924,11 @@
                     <value>2026.06.26</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108764">
+            <Point id="2157270">
                 <coordinates>37.82749,48.96326,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108771">
+        <Placemark id="2157277">
             <name>26.06.26 Купянск - Дачные участки
 
 Позиционные боевые действия в Купянске.
@@ -4953,19 +4953,19 @@
                     <value>2026.06.26</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108770">
-                <Point id="2108772">
+            <MultiGeometry id="2157276">
+                <Point id="2157278">
                     <coordinates>37.597341,49.734631,0.0</coordinates>
                 </Point>
-                <Point id="2108774">
+                <Point id="2157280">
                     <coordinates>37.591032,49.742859,0.0</coordinates>
                 </Point>
-                <Point id="2108776">
+                <Point id="2157282">
                     <coordinates>37.591832,49.736771,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108783">
+        <Placemark id="2157289">
             <name>27.06.26 Дополнительно.
 
 Позиция ВС РФ в Злагоде под огнём ВСУ.
@@ -4986,11 +4986,11 @@
                     <value>2026.06.27</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108782">
+            <Point id="2157288">
                 <coordinates>36.320567,47.837897,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108789">
+        <Placemark id="2157295">
             <name>27.06.26 Покровское - Новоскелеватое
 
 Последствия боевых действий в Днепропетровской зоне безопасности.
@@ -5013,11 +5013,11 @@
                     <value>2026.06.27</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108788">
+            <Point id="2157294">
                 <coordinates>36.18946,47.93756,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108795">
+        <Placemark id="2157301">
             <name>27.06.26 Вознесенск - Криворучка
 
 Боевые действия в глубине обороны ВСУ.
@@ -5039,11 +5039,11 @@
                     <value>2026.06.27</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108794">
+            <Point id="2157300">
                 <coordinates>31.248352,47.514425,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108801">
+        <Placemark id="2157307">
             <name>27.06.26 Красный Лиман - Центральный
 
 Позиционные боевые действия в Красном Лимане.
@@ -5066,11 +5066,11 @@
                     <value>2026.06.27</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108800">
+            <Point id="2157306">
                 <coordinates>37.805654,48.977763,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108807">
+        <Placemark id="2157313">
             <name>27.06.26 Славянск - Ореховатка - канал Северский Донец - Донбасс
 
 Активные боевые действия в районе Славянска.
@@ -5092,11 +5092,11 @@
                     <value>2026.06.27</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108806">
+            <Point id="2157312">
                 <coordinates>37.752800,48.820065,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108813">
+        <Placemark id="2157319">
             <name>27.06.26 Славянск - Рай-Александровка - канал Северский Донец - Донбасс
 
 Активные боевые действия в районе Славянска.
@@ -5120,11 +5120,11 @@
                     <value>2026.06.27</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108812">
+            <Point id="2157318">
                 <coordinates>37.801380,48.802405,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108819">
+        <Placemark id="2157325">
             <name>27.06.26 Покровское - Отрадное
 
 Активные боевые действия в Днепропетровской зоне безопасности.
@@ -5147,11 +5147,11 @@
                     <value>2026.06.27</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108818">
+            <Point id="2157324">
                 <coordinates>36.237686,47.907191,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108825">
+        <Placemark id="2157331">
             <name>28.06.26 Двуречная - Нововасилевка
 
 Позиционные боевые действия в районе Купянска.
@@ -5174,11 +5174,11 @@
                     <value>2026.06.28</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108824">
+            <Point id="2157330">
                 <coordinates>37.696552,49.958848,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108831">
+        <Placemark id="2157337">
             <name>28.06.26 Орехов - Новосёловка
 
 Последствия боевых действий в районе Орехова.
@@ -5204,22 +5204,22 @@
                     <value>2026.06.28</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108830">
-                <Point id="2108832">
+            <MultiGeometry id="2157336">
+                <Point id="2157338">
                     <coordinates>36.01090,47.61092,0.0</coordinates>
                 </Point>
-                <Point id="2108834">
+                <Point id="2157340">
                     <coordinates>35.98136,47.61806,0.0</coordinates>
                 </Point>
-                <Point id="2108836">
+                <Point id="2157342">
                     <coordinates>36.00199,47.61968,0.0</coordinates>
                 </Point>
-                <Point id="2108838">
+                <Point id="2157344">
                     <coordinates>36.01081,47.61813,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108845">
+        <Placemark id="2157351">
             <name>28.06.26 Гуляйполе - Придорожное
 
 Позиционные боевые действия в районе Гуляйполя.
@@ -5242,11 +5242,11 @@
                     <value>2026.06.28</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108844">
+            <Point id="2157350">
                 <coordinates>36.109214,47.812168,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108851">
+        <Placemark id="2157357">
             <name>29.06.26 Дополнительно.
 
 Позиция ВС РФ в Вербовом под обстрелом ВСУ.
@@ -5267,11 +5267,11 @@
                     <value>2026.06.29</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108850">
+            <Point id="2157356">
                 <coordinates>36.391042,47.873706,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108857">
+        <Placemark id="2157363">
             <name>29.06.26 Глухов - Сопычь
 
 Позиционные боевые действия в Сумской зоне безопасности.
@@ -5294,11 +5294,11 @@
                     <value>2026.06.29</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108856">
+            <Point id="2157362">
                 <coordinates>34.328649,51.834705,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108863">
+        <Placemark id="2157369">
             <name>29.06.26 Покровское - Богодаровка
 
 Последствия боевых действий в Днепропетровской зоне безопасности.
@@ -5322,16 +5322,16 @@
                     <value>2026.06.29</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108862">
-                <Point id="2108864">
+            <MultiGeometry id="2157368">
+                <Point id="2157370">
                     <coordinates>36.21378,47.95336,0.0</coordinates>
                 </Point>
-                <Point id="2108866">
+                <Point id="2157372">
                     <coordinates>36.21120,47.95100,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108873">
+        <Placemark id="2157379">
             <name>29.06.26 Краматорск - Белокузьминовка
 
 Активные боевые действия в районе Славянска.
@@ -5353,11 +5353,11 @@
                     <value>2026.06.29</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108872">
+            <Point id="2157378">
                 <coordinates>37.671245,48.653892,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108879">
+        <Placemark id="2157385">
             <name>29.06.26 Лозовая - Панютино(Лимановка)
 
 Уничтожение инфраструктурных объектов Украины.
@@ -5379,11 +5379,11 @@
                     <value>2026.06.29</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108878">
+            <Point id="2157384">
                 <coordinates>36.2591,48.93882,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108885">
+        <Placemark id="2157391">
             <name>29.06.26 Боровая - Новая Кругляковка
 
 Позиционные боевые действия в районе Боровой.
@@ -5406,11 +5406,11 @@
                     <value>2026.06.29</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108884">
+            <Point id="2157390">
                 <coordinates>37.72963,49.46442,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108891">
+        <Placemark id="2157397">
             <name>30.06.26 Дополнительно.
 
 Инфильтрационная группа ВСУ под обстрелом ВС РФ в Купянске-Узловом.
@@ -5431,11 +5431,11 @@
                     <value>2026.06.30</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108890">
+            <Point id="2157396">
                 <coordinates>37.660231,49.660958,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108897">
+        <Placemark id="2157403">
             <name>30.06.26 Доброполье - Дорожное
 
 Позиционные боевые действия в районе Красноармейска.
@@ -5459,11 +5459,11 @@
                     <value>2026.06.30</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108896">
+            <Point id="2157402">
                 <coordinates>37.222774,48.420637,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108903">
+        <Placemark id="2157409">
             <name>30.06.26 Краматорск - Малиновка
 
 Последствия боевых действий в районе Славянска.
@@ -5493,22 +5493,22 @@
                     <value>2026.06.30</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108902">
-                <Point id="2108904">
+            <MultiGeometry id="2157408">
+                <Point id="2157410">
                     <coordinates>37.780444,48.741547,0.0</coordinates>
                 </Point>
-                <Point id="2108906">
+                <Point id="2157412">
                     <coordinates>37.772000,48.73847,0.0</coordinates>
                 </Point>
-                <Point id="2108908">
+                <Point id="2157414">
                     <coordinates>37.776570,48.73774,0.0</coordinates>
                 </Point>
-                <Point id="2108910">
+                <Point id="2157416">
                     <coordinates>37.780460,48.73643,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108917">
+        <Placemark id="2157423">
             <name>30.06.26 Купянск - Купянск-Узловой
 
 Активные боевые действия в районе Купянска.
@@ -5532,11 +5532,11 @@
                     <value>2026.06.30</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108916">
+            <Point id="2157422">
                 <coordinates>37.639240,49.663259,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108923">
+        <Placemark id="2157429">
             <name>30.06.26 Запорожье - Хортица
 
 Уничтожение инфраструктурных объектов Украины.
@@ -5558,11 +5558,11 @@
                     <value>2026.06.30</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108922">
+            <Point id="2157428">
                 <coordinates>35.078074,47.853775,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108929">
+        <Placemark id="2157435">
             <name>30.06.26 Константиновка - Новосёловка
 
 Штурм Константиновки.
@@ -5584,11 +5584,11 @@
                     <value>2026.06.30</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108928">
+            <Point id="2157434">
                 <coordinates>37.6269,48.55633,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108935">
+        <Placemark id="2157441">
             <name>01.07.26 Дополнительно.
 
 Инфильтрационная группа ВСУ обстреляна ВС РФ на южной окраине Нового Запорожья. Сообщается что события середины мая 2026.
@@ -5609,11 +5609,11 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108934">
+            <Point id="2157440">
                 <coordinates>36.208727,47.811238,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108941">
+        <Placemark id="2157447">
             <name>01.07.26 Купянск - Городская больница
 
 Позиционные боевые действия в Купянске.
@@ -5637,16 +5637,16 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108940">
-                <Point id="2108942">
+            <MultiGeometry id="2157446">
+                <Point id="2157448">
                     <coordinates>37.600573,49.722897,0.0</coordinates>
                 </Point>
-                <Point id="2108944">
+                <Point id="2157450">
                     <coordinates>37.606872,49.721244,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108951">
+        <Placemark id="2157457">
             <name>01.07.26 Гуляйполе - Копани
 
 Последствия боевых действий в районе Гуляйполя.
@@ -5669,11 +5669,11 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108950">
+            <Point id="2157456">
                 <coordinates>36.024500,47.689419,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108957">
+        <Placemark id="2157463">
             <name>01.07.26 Константиновка - Алексеево- Дружковка
 
 Штурм Константиновки.
@@ -5695,11 +5695,11 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2108956">
+            <Point id="2157462">
                 <coordinates>37.638544,48.568556,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2108963">
+        <Placemark id="2157469">
             <name>01.07.26 Красный Лиман - Редкодуб - Карповка - Новое - Зелёная Долина - Шандриголово - Новосёловка - Яровая - Дробышево - Ставки
 
 Позиционные боевые действия в районе Красного Лимана.
@@ -5732,40 +5732,40 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108962">
-                <Point id="2108964">
+            <MultiGeometry id="2157468">
+                <Point id="2157470">
                     <coordinates>37.8297,49.04708,0.0</coordinates>
                 </Point>
-                <Point id="2108966">
+                <Point id="2157472">
                     <coordinates>37.81559,49.13002,0.0</coordinates>
                 </Point>
-                <Point id="2108968">
+                <Point id="2157474">
                     <coordinates>37.63863,49.06364,0.0</coordinates>
                 </Point>
-                <Point id="2108970">
+                <Point id="2157476">
                     <coordinates>37.72695,49.04395,0.0</coordinates>
                 </Point>
-                <Point id="2108972">
+                <Point id="2157478">
                     <coordinates>37.79733,49.18172,0.0</coordinates>
                 </Point>
-                <Point id="2108974">
+                <Point id="2157480">
                     <coordinates>37.69423,49.07921,0.0</coordinates>
                 </Point>
-                <Point id="2108976">
+                <Point id="2157482">
                     <coordinates>37.69019,49.06555,0.0</coordinates>
                 </Point>
-                <Point id="2108978">
+                <Point id="2157484">
                     <coordinates>37.71483,49.10192,0.0</coordinates>
                 </Point>
-                <Point id="2108980">
+                <Point id="2157486">
                     <coordinates>37.8376,49.16946,0.0</coordinates>
                 </Point>
-                <Point id="2108982">
+                <Point id="2157488">
                     <coordinates>37.74481,49.17797,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2108989">
+        <Placemark id="2157495">
             <name>01.07.26 Купянск - Куриловка - Подолы
 
 Последствия боевых действий в районе Купянска.
@@ -5791,22 +5791,22 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2108988">
-                <Point id="2108990">
+            <MultiGeometry id="2157494">
+                <Point id="2157496">
                     <coordinates>37.67137,49.70209,0.0</coordinates>
                 </Point>
-                <Point id="2108992">
+                <Point id="2157498">
                     <coordinates>37.66553,49.66926,0.0</coordinates>
                 </Point>
-                <Point id="2108994">
+                <Point id="2157500">
                     <coordinates>37.67184,49.67549,0.0</coordinates>
                 </Point>
-                <Point id="2108996">
+                <Point id="2157502">
                     <coordinates>37.69760,49.68030,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109003">
+        <Placemark id="2157509">
             <name>01.07.26 Великая Новосёлка - Искра
 
 Позиционные боевые действия в районе Великой Новосёлки.
@@ -5829,11 +5829,11 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109002">
+            <Point id="2157508">
                 <coordinates>36.583177,48.046976,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109009">
+        <Placemark id="2157515">
             <name>01.07.26 Купянск - Купянск-Узловой
 
 Активные боевые действия.
@@ -5858,19 +5858,19 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109008">
-                <Point id="2109010">
+            <MultiGeometry id="2157514">
+                <Point id="2157516">
                     <coordinates>37.65729,49.66039,0.0</coordinates>
                 </Point>
-                <Point id="2109012">
+                <Point id="2157518">
                     <coordinates>37.64967,49.65698,0.0</coordinates>
                 </Point>
-                <Point id="2109014">
+                <Point id="2157520">
                     <coordinates>37.68889,49.64961,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109021">
+        <Placemark id="2157527">
             <name>01.07.26 Золочев - Казачья Лопань
 
 Активные боевые действия в Харьковской зоне безопасности.
@@ -5894,16 +5894,16 @@
                     <value>2026.07.01</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109020">
-                <Point id="2109022">
+            <MultiGeometry id="2157526">
+                <Point id="2157528">
                     <coordinates>36.202286,50.344596,0.0</coordinates>
                 </Point>
-                <Point id="2109024">
+                <Point id="2157530">
                     <coordinates>36.203843,50.343352,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109031">
+        <Placemark id="2157537">
             <name>02.07.26 Дополнительно.
 
 Позиция ВС РФ под огнём ВСУ
@@ -5924,11 +5924,11 @@
                     <value>2026.07.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109030">
+            <Point id="2157536">
                 <coordinates>36.926740,50.261520,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109037">
+        <Placemark id="2157543">
             <name>02.07.26 Дополнительно.
 
 Движение военнослужащих ВСУ в Лесном
@@ -5949,11 +5949,11 @@
                     <value>2026.07.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109036">
+            <Point id="2157542">
                 <coordinates>35.989542,47.749167,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109043">
+        <Placemark id="2157549">
             <name>02.07.26 Дополнительно.
 
 Атака ВСУ направлении позиции ВС РФ в населённом пункте Копани. Установлен флаг Украины.
@@ -5974,11 +5974,11 @@
                     <value>2026.07.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109042">
+            <Point id="2157548">
                 <coordinates>36.024991,47.689544,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109049">
+        <Placemark id="2157555">
             <name>02.07.26 Краматорск - Малиновка - канал Северский Донец-Донбасс
 
 Активные боевые действия в районе Славянска.
@@ -6002,16 +6002,16 @@
                     <value>2026.07.02</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109048">
-                <Point id="2109050">
+            <MultiGeometry id="2157554">
+                <Point id="2157556">
                     <coordinates>37.804054,48.756699,0.0</coordinates>
                 </Point>
-                <Point id="2109052">
+                <Point id="2157558">
                     <coordinates>37.778646,48.735112,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109059">
+        <Placemark id="2157565">
             <name>02.07.26 Славянск - Пискуновка
 
 Последствия боевых действий в районе Славянска
@@ -6042,37 +6042,37 @@
                     <value>2026.07.02</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109058">
-                <Point id="2109060">
+            <MultiGeometry id="2157564">
+                <Point id="2157566">
                     <coordinates>37.82888,48.88695,0.0</coordinates>
                 </Point>
-                <Point id="2109062">
+                <Point id="2157568">
                     <coordinates>37.83429,48.88114,0.0</coordinates>
                 </Point>
-                <Point id="2109064">
+                <Point id="2157570">
                     <coordinates>37.83827,48.88538,0.0</coordinates>
                 </Point>
-                <Point id="2109066">
+                <Point id="2157572">
                     <coordinates>37.82884,48.88934,0.0</coordinates>
                 </Point>
-                <Point id="2109068">
+                <Point id="2157574">
                     <coordinates>37.83486,48.88481,0.0</coordinates>
                 </Point>
-                <Point id="2109070">
+                <Point id="2157576">
                     <coordinates>37.83727,48.88892,0.0</coordinates>
                 </Point>
-                <Point id="2109072">
+                <Point id="2157578">
                     <coordinates>37.83738,48.88673,0.0</coordinates>
                 </Point>
-                <Point id="2109074">
+                <Point id="2157580">
                     <coordinates>37.83351,48.89007,0.0</coordinates>
                 </Point>
-                <Point id="2109076">
+                <Point id="2157582">
                     <coordinates>37.83833,48.88840,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109083">
+        <Placemark id="2157589">
             <name>02.07.26 Купянск - Новоосиново
 
 Активные боевые действия в районе Купянска.
@@ -6095,11 +6095,11 @@
                     <value>2026.07.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109082">
+            <Point id="2157588">
                 <coordinates>37.70205,49.61497,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109089">
+        <Placemark id="2157595">
             <name>02.07.26 Боровая - Дружелюбовка - Чернещина
 
 Активные боевые действия в районе Боровой.
@@ -6123,16 +6123,16 @@
                     <value>2026.07.02</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109088">
-                <Point id="2109090">
+            <MultiGeometry id="2157594">
+                <Point id="2157596">
                     <coordinates>37.85815,49.26056,0.0</coordinates>
                 </Point>
-                <Point id="2109092">
+                <Point id="2157598">
                     <coordinates>37.85176,49.31644,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109099">
+        <Placemark id="2157605">
             <name>02.07.26 Красноармейск - Гришино
 
 Позиционные боевые действия в районе Красноармейска.
@@ -6155,11 +6155,11 @@
                     <value>2026.07.02</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109098">
+            <Point id="2157604">
                 <coordinates>37.027517,48.348308,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109105">
+        <Placemark id="2157611">
             <name>03.07.26 Покровское - Александровка
 
 Последствия боевых действий в Днепропетровской зоне безопасности.
@@ -6186,25 +6186,25 @@
                     <value>2026.07.03</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109104">
-                <Point id="2109106">
+            <MultiGeometry id="2157610">
+                <Point id="2157612">
                     <coordinates>36.2467,47.97233,0.0</coordinates>
                 </Point>
-                <Point id="2109108">
+                <Point id="2157614">
                     <coordinates>36.24241,47.97065,0.0</coordinates>
                 </Point>
-                <Point id="2109110">
+                <Point id="2157616">
                     <coordinates>36.23631,47.96972,0.0</coordinates>
                 </Point>
-                <Point id="2109112">
+                <Point id="2157618">
                     <coordinates>36.23718,47.96686,0.0</coordinates>
                 </Point>
-                <Point id="2109114">
+                <Point id="2157620">
                     <coordinates>36.23725,47.96839,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109121">
+        <Placemark id="2157627">
             <name>03.07.26 Краматорск - Дружковка
 
 Контрбатарейная борьба в районе Констатиновки.
@@ -6227,11 +6227,11 @@
                     <value>2026.07.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109120">
+            <Point id="2157626">
                 <coordinates>37.53619,48.61453,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109127">
+        <Placemark id="2157633">
             <name>03.07.26 Купянск - Западное
 
 Активные боевые действия в районе Купянска.
@@ -6254,11 +6254,11 @@
                     <value>2026.07.03</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109126">
+            <Point id="2157632">
                 <coordinates>37.59317,49.80007,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109133">
+        <Placemark id="2157639">
             <name>03.07.26 Константиновка - Червоный
 
 Штурм Константиновки.
@@ -6282,16 +6282,43 @@
                     <value>2026.07.03</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109132">
-                <Point id="2109134">
+            <MultiGeometry id="2157638">
+                <Point id="2157640">
                     <coordinates>37.66607,48.54342,0.0</coordinates>
                 </Point>
-                <Point id="2109136">
+                <Point id="2157642">
                     <coordinates>37.66717,48.55818,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109143">
+        <Placemark id="2157649">
+            <name>03.07.26 Доброполье - Кучеров Яр
+
+Позиционные боевые действия в районе Красноармейска.
+Позиция ВСУ около Кучерова Яра обстреляна ВС РФ. ВСУ увеличили зону контроля южнее населённого пункта на 1 км по фронту.
+
+ `48.4872, 37.28667` 
+
+Источник https://t.me/Don_Guards_51st/1056
+Геопривязка https://x.com/hizzo_jay
+#ua</name>
+            <description>https://t.me/creamy_caprice/12417</description>
+            <ExtendedData>
+                <Data name="описание">
+                    <value>https://t.me/creamy_caprice/12417</value>
+                </Data>
+                <Data name="позиция">
+                    <value>ВСУ*</value>
+                </Data>
+                <Data name="дата">
+                    <value>2026.07.03</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2157648">
+                <coordinates>37.28667,48.4872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2157655">
             <name>04.07.26 Константиновка - Червоный
 
 Штурм Константиновки.
@@ -6314,11 +6341,11 @@
                     <value>2026.07.04</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109142">
+            <Point id="2157654">
                 <coordinates>37.66268,48.55229,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109149">
+        <Placemark id="2157661">
             <name>04.07.26 Краматорск - Семёновка
 
 Контрбатарейная борьба в районе Славянска.
@@ -6340,11 +6367,11 @@
                     <value>2026.07.04</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109148">
+            <Point id="2157660">
                 <coordinates>37.651906,48.672861,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109155">
+        <Placemark id="2157667">
             <name>04.07.26 Красноармейск - Василевка
 
 Активные боевые действия в районе Красноармейска.
@@ -6369,16 +6396,16 @@
                     <value>2026.07.04</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109154">
-                <Point id="2109156">
+            <MultiGeometry id="2157666">
+                <Point id="2157668">
                     <coordinates>37.03733,48.35777,0.0</coordinates>
                 </Point>
-                <Point id="2109158">
+                <Point id="2157670">
                     <coordinates>37.03997,48.35724,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109165">
+        <Placemark id="2157677">
             <name>04.07.26 Боровая - Новый Мир
 
 Активные боевые действия в районе Боровой.
@@ -6402,11 +6429,11 @@
                     <value>2026.07.04</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109164">
+            <Point id="2157676">
                 <coordinates>37.82913,49.21959,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109171">
+        <Placemark id="2157683">
             <name>04.07.26 Межевая - Новоподгородное
 
 Позиционные боевые действия в Днепропетровской зоне безопасности.
@@ -6429,11 +6456,36 @@
                     <value>2026.07.04</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109170">
+            <Point id="2157682">
                 <coordinates>36.88777,48.24366,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109177">
+        <Placemark id="2157689">
+            <name>05.07.26 Дополнительно.
+
+Позиция ВСУ под обстрелом ВС РФ
+
+ `47.662931, 36.129527` 
+
+Источник https://t.me/creamy_caprice/11722?comment=76400
+#ua #add</name>
+            <description>https://t.me/creamy_caprice/11722</description>
+            <ExtendedData>
+                <Data name="описание">
+                    <value>https://t.me/creamy_caprice/11722</value>
+                </Data>
+                <Data name="позиция">
+                    <value>ВСУ</value>
+                </Data>
+                <Data name="дата">
+                    <value>2026.07.05</value>
+                </Data>
+            </ExtendedData>
+            <Point id="2157688">
+                <coordinates>36.129527,47.662931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2157695">
             <name>05.07.26 Дополнительно.
 
 Позиция ВСУ на южной окраине Белицкого под обстрелом ВС РФ.
@@ -6454,11 +6506,11 @@
                     <value>2026.07.05</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109176">
+            <Point id="2157694">
                 <coordinates>37.190225,48.402087,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109183">
+        <Placemark id="2157701">
             <name>05.07.26 Дополнительно.
 
 Обстрел позиций ВС РФ на ферме в Вербовом
@@ -6480,11 +6532,11 @@
                     <value>2026.07.05</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109182">
+            <Point id="2157700">
                 <coordinates>36.391059,47.873630,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109189">
+        <Placemark id="2157707">
             <name>05.07.26 Бурынь - Дьяковка
 
 Уничтожение инфраструктурных объектов Украины.
@@ -6506,11 +6558,11 @@
                     <value>2026.07.05</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109188">
+            <Point id="2157706">
                 <coordinates>34.03929,51.17372,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109195">
+        <Placemark id="2157713">
             <name>05.07.26 Покровское - Диброва
 
 Активные боевые действия в Днепропетровской зоне безопасности.
@@ -6534,11 +6586,11 @@
                     <value>2026.07.05</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109194">
+            <Point id="2157712">
                 <coordinates>36.429534,48.025578,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109201">
+        <Placemark id="2157719">
             <name>05.07.26 Сумы - Курский
 
 Уничтожение инфраструктурных объектов Украины.
@@ -6560,11 +6612,11 @@
                     <value>2026.07.05</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109200">
+            <Point id="2157718">
                 <coordinates>34.793680,50.930677,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109207">
+        <Placemark id="2157725">
             <name>06.07.26 Дополнительно.
 
 Позиции ВС РФ Калиновском, Новониколаевке и окрестностях под огнём ВСУ. (1) Поиск цели, удара нет.
@@ -6588,19 +6640,19 @@
                     <value>2026.07.06</value>
                 </Data>
             </ExtendedData>
-            <MultiGeometry id="2109206">
-                <Point id="2109208">
+            <MultiGeometry id="2157724">
+                <Point id="2157726">
                     <coordinates>36.497344,47.848609,0.0</coordinates>
                 </Point>
-                <Point id="2109210">
+                <Point id="2157728">
                     <coordinates>36.465554,47.845135,0.0</coordinates>
                 </Point>
-                <Point id="2109212">
+                <Point id="2157730">
                     <coordinates>36.470180,47.855197,0.0</coordinates>
                 </Point>
             </MultiGeometry>
         </Placemark>
-        <Placemark id="2109219">
+        <Placemark id="2157737">
             <name>06.07.26 Глухов - Комаровка
 
 Позиционные боевые действия в Сумской зоне безопасности.
@@ -6623,11 +6675,11 @@
                     <value>2026.07.06</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109218">
+            <Point id="2157736">
                 <coordinates>34.290473,51.731549,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="2109225">
+        <Placemark id="2157743">
             <name>06.07.26 Купянск - Центральная площадь
 
 Позиционные боевые действия в Купянске.
@@ -6650,7 +6702,7 @@
                     <value>2026.07.06</value>
                 </Data>
             </ExtendedData>
-            <Point id="2109224">
+            <Point id="2157742">
                 <coordinates>37.609585,49.711041,0.0</coordinates>
             </Point>
         </Placemark>
