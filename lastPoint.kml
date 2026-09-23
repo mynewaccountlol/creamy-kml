@@ -8878,5 +8878,32 @@
                 <coordinates>35.93490,47.62648,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="51745">
+            <name>23.09.26 Межевая - Беляковка
+
+Позиционные боевые действия в Днепропетровской зоне безопасности.
+Передовая позиция ВС РФ около Беляковки подверглась обстрелу ВСУ. ВС РФ увеличили зону контроля в окрестностях населённого пункта более 1 км по фронту и заняли новые позиции на северном берегу реки Солёная.
+
+ 0:24 `48.19531,36.89207`    
+
+Источник 21+ https://t.me/armyUA59/373
+Геопривязка https://t.me/Zabolocini
+#ru</name>
+            <description>https://t.me/creamy_caprice/13031</description>
+            <ExtendedData>
+                <Data name="описание">
+                    <value>https://t.me/creamy_caprice/13031</value>
+                </Data>
+                <Data name="позиция">
+                    <value>ВС РФ*</value>
+                </Data>
+                <Data name="дата">
+                    <value>2026.09.23</value>
+                </Data>
+            </ExtendedData>
+            <Point id="51744">
+                <coordinates>36.89207,48.19531,0.0</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
